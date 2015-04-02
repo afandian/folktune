@@ -1,0 +1,3 @@
+https://groups.google.com/forum/#!topic/mozilla.dev.identity/6atcnwghA_M
+https://developer.mozilla.org/en/Persona/Protocol_Overview
+https://developer.mozilla.org/en-US/Persona/Remote_Verification_API
