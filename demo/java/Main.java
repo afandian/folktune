@@ -18,7 +18,10 @@ public class Main extends Application {
         System.out.println("ASSERTION");
         System.out.println(assertion);
 
-        // TODO: verify assertion. Probably post this back to folktune.org for verification, get back a token.
+        // NEXT
+        // 1 - Post assertion to folktune.org
+        // 2 - Get back response with cookie in header
+        // 3 - Save cookie in file
     }
 
     @Override
